@@ -9,30 +9,51 @@
 
 ### **Languages and tools 💻**
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+<div align="center">
+  <p align="center">
+    <img src="./assets/html.png" alt="html" width="35" height="35" loading="lazy">&nbsp;&nbsp;
+    <img src="./assets/css-3.png" alt="CSS" width="35" height="35" loading="lazy">&nbsp;&nbsp;
+    <img src="./assets/logo-javascript.svg" alt="JavaScript" width="35" height="35" loading="lazy">&nbsp;&nbsp;
+    <img src="./assets/react-2.svg" alt="ReactJS" width="35" height="35" loading="lazy">&nbsp;&nbsp;
+    <img src="./assets/python.png" alt="Python" width="35" height="35" loading="lazy">&nbsp;&nbsp;
+    <img src="./assets/tensorflow-seeklogo.com.svg" alt="TensorFlow" width="35" height="35" loading="lazy">&nbsp;&nbsp;
+    <img src="./assets/git.png" alt="Git" width="35" height="35" loading="lazy">&nbsp;&nbsp;
+    <img src="./assets/github (1).png" alt="GitHub" width="35" height="35" loading="lazy">&nbsp;&nbsp;
+    <img src="./assets/firebase_logo_icon_171157.png" alt="Firebase" width="35" height="35" loading="lazy">&nbsp;&nbsp;
+    <img src="./assets/linux.png" alt="Linux" width="35" height="35" loading="lazy">&nbsp;&nbsp;
+    <img src="./assets/mongodb.png" alt="MongoDB" width="35" height="35" loading="lazy">&nbsp;&nbsp;
+    <img src="./assets/flask.png" alt="Flask" width="35" height="35" loading="lazy">&nbsp;&nbsp;
+    <img src="./assets/logo.svg" alt="SQL" width="35" height="35" loading="lazy">&nbsp;&nbsp;
+    <img src="./assets/canvas1.png" alt="Canva" width="35" height="35" loading="lazy">&nbsp;&nbsp;
+  </p>
+</div>
+
 
 ### **🔗 Visit my Portfolio: [Samrat's Portfolio](http://samrat2k03.github.io/Portofolio/)**
 
 
 ### **Reach me** 
-
+<p align="center">
+      
 <a href="https://github.com/samrat2k03" target="_blank" style="text-decoration: none;">
       <img src="./assets/github (1).png" alt="git" width="30" height="30" style="display: inline-block;">
-    </a>
+    </a>&nbsp;
     <a href="https://www.instagram.com/the.samrat28/" target="_blank" style="text-decoration: none;">
       <img src="./assets/instagram.png" alt="instagram" width="30" height="30" style="display: inline-block;">
-    </a>
+    </a>&nbsp;
     <a href="https://www.linkedin.com/in/samrat-d-a79817278" target="_blank" style="text-decoration: none;">
       <img src="./assets/linkedin.png" alt="linkedin" width="30" height="30" style="display: inline-block;">
-    </a>
+    </a>&nbsp;
     <a href="https://twitter.com/samratapr28" target="_blank" style="text-decoration: none;">
       <img src="./assets/twitter.png" alt="twitter" width="30" height="30" style="display: inline-block;">
-    </a>
+    </a>&nbsp;
     <a href="mailto:samratapr40@gmail.com" target="_blank" style="text-decoration: none;">
       <img src="./assets/gmail.png" alt="gmail" width="30" height="30" style="display: inline-block;">
-    </a>
+    </a>&nbsp;
+</p>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=samrat2k03&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ### **📊 GitHub Stats:**
