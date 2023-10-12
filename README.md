@@ -56,6 +56,10 @@
 
 [![](https://visitcount.itsvg.in/api?id=samrat2k03&icon=0&color=1)](https://visitcount.itsvg.in)
 
+## **Hacktoberfest 2023 🥇**
+
+[![An image of @samrat2k03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/samrat2k03)](https://holopin.io/@samrat2k03)
+
 ### **📊 GitHub Stats:**
 ![](https://github-readme-stats.vercel.app/api?username=samrat2k03&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
@@ -65,7 +69,5 @@
 
 ### **🏆 GitHub Trophies**
 ![](https://github-profile-trophy.vercel.app/?username=samrat2k03&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-
 
 <hr>
