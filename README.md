@@ -29,7 +29,7 @@
 </div>
 
 
-### **🔗 Visit my Portfolio: [Samrat's Portfolio](http://samrat2k03.github.io/Portfolio/)**
+### **🔗 Visit my Portfolio: [Samrat's Portfolio](https://samratd.netlify.app/)**
 
 
 ### **Reach me** 
