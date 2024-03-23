@@ -1,7 +1,7 @@
 <div align="center">
 
 # **Hi, I'm Samrat ⚡**
-### Engineer | Web Developer | AI & ML Enthusiast | Designing
+### Software Developer | Full Stack Developer
 </div>
 
 ### **Something about me** 
