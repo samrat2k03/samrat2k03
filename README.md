@@ -16,14 +16,15 @@
     <img src="./assets/logo-javascript.svg" alt="JavaScript" width="35" height="35" loading="lazy">&nbsp;&nbsp;
     <img src="./assets/react-2.svg" alt="ReactJS" width="35" height="35" loading="lazy">&nbsp;&nbsp;
     <img src="./assets/python.png" alt="Python" width="35" height="35" loading="lazy">&nbsp;&nbsp;
+    <img src="./assets/java-logo.png" alt="Java" width="35" height="35" loading="lazy">&nbsp;&nbsp;
     <img src="./assets/tensorflow-seeklogo.com.svg" alt="TensorFlow" width="35" height="35" loading="lazy">&nbsp;&nbsp;
     <img src="./assets/git.png" alt="Git" width="35" height="35" loading="lazy">&nbsp;&nbsp;
     <img src="./assets/github (1).png" alt="GitHub" width="35" height="35" loading="lazy">&nbsp;&nbsp;
     <img src="./assets/firebase_logo_icon_171157.png" alt="Firebase" width="35" height="35" loading="lazy">&nbsp;&nbsp;
     <img src="./assets/linux.png" alt="Linux" width="35" height="35" loading="lazy">&nbsp;&nbsp;
+    <img src="./assets/sql.png" alt="SQL" width="35" height="35" loading="lazy">&nbsp;&nbsp;
     <img src="./assets/mongodb.png" alt="MongoDB" width="35" height="35" loading="lazy">&nbsp;&nbsp;
     <img src="./assets/flask.png" alt="Flask" width="35" height="35" loading="lazy">&nbsp;&nbsp;
-    <img src="./assets/logo.svg" alt="SQL" width="35" height="35" loading="lazy">&nbsp;&nbsp;
     <img src="./assets/canvas1.png" alt="Canva" width="35" height="35" loading="lazy">&nbsp;&nbsp;
   </p>
 </div>
